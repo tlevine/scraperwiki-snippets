@@ -10,7 +10,7 @@ demjson for parsing bad json
 write tests, even in shell
 searching for zip codes, phone numbers, ISBNs, &c. is easy
 make a list of xml parsers (and xpath and css selector functions) for a bunch of languages
-tr, sed 1d
+tr, sed 1d, wc
 pdftohtml, pdftotext, pdfimages, inkscape
 split-apply-combine
 document-like databases are easy for loading data (thus dumptruck)
@@ -18,3 +18,12 @@ In Python or Ruby, use a dictionary to update factor levels.
 In R, use levels(vector), and create a new factor with factor(vector, levels=aoeuaoeu)
 Zipcode lookup API https://views.scraperwiki.com/run/usps_lookup/
 Skipping unusually complex sections of files and maybe doing them manually (like odyssey and dairy)
+
+
+So you can go through this process to clean up all the data, but when you're
+just presenting some figures, you can do some stupidly easy analysis instead.
+
+Talk about stupidly basic analyses and how that's already useful.
+* FALLOS
+* String matches (SELECT count(*) from foo where bar LIKE %baz%;)
+* 
