@@ -7,8 +7,14 @@ child references in xpath
 sibling references in xpath maybe
 stripping spaces and making lowercase before searching OCRed text
 demjson for parsing bad json
-write tests
+write tests, even in shell
 searching for zip codes, phone numbers, ISBNs, &c. is easy
 make a list of xml parsers (and xpath and css selector functions) for a bunch of languages
 tr, sed 1d
 pdftohtml, pdftotext, pdfimages, inkscape
+split-apply-combine
+document-like databases are easy for loading data (thus dumptruck)
+In Python or Ruby, use a dictionary to update factor levels.
+In R, use levels(vector), and create a new factor with factor(vector, levels=aoeuaoeu)
+Zipcode lookup API https://views.scraperwiki.com/run/usps_lookup/
+Skipping unusually complex sections of files and maybe doing them manually (like odyssey and dairy)
