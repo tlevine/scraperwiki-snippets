@@ -1,0 +1,14 @@
+unidecode.unidecode
+lxml.etree._HtmlElement.make_links_absolute and http://lxml.de/lxmlhtml.html
+copying a request from the browser network analyzer thingy into a requests request
+requests.session
+always use css or xpath
+child references in xpath
+sibling references in xpath maybe
+stripping spaces and making lowercase before searching OCRed text
+demjson for parsing bad json
+write tests
+searching for zip codes, phone numbers, ISBNs, &c. is easy
+make a list of xml parsers (and xpath and css selector functions) for a bunch of languages
+tr, sed 1d
+pdftohtml, pdftotext, pdfimages, inkscape
